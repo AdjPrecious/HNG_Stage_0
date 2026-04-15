@@ -186,7 +186,7 @@ https://localhost:<port>/swagger
 Deployed at:
 
 ```
-https://your-api-url.com
+https://hng-stage-0-utkc.onrender.com/
 ```
 
 ---
